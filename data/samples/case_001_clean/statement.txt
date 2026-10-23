@@ -1,0 +1,5 @@
+STATE BANK - ACCOUNT STATEMENT
+Account Holder: Rahul Sharma
+Account No: 123456789012
+Average Monthly Balance: INR 54,200
+Closing Balance: INR 61,000

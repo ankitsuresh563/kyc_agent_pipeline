@@ -1,0 +1,5 @@
+STATE BANK - ACCOUNT STATEMENT
+Account Holder: Rohit Verma
+Account No: 123456789012
+Average Monthly Balance: INR 4,000
+Closing Balance: INR 3,500
